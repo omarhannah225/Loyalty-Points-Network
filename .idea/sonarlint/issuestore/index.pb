@@ -5,3 +5,5 @@ N
 contracts/points-issuance.clar,2/6/26183585a4eb0da18c1d9582b8a9fcb2c45b7a0d
 M
 tests/points-issuance.test.ts,0/4/042a528106c0844900ec4ebcf969326c6dcb4eab
+J
+contracts/reedemption.clar,7/8/78f44ed3dfd61ad1c956b169a63144ee717a7aa7
